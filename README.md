@@ -1,4 +1,4 @@
-# WebScapper
+# WebScrapper
 
 HIGHLIGHT
 
